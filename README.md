@@ -6,7 +6,5 @@
 	</head>
 	<body>
 		<h1>ALL ABOUT ME</h1>
-    
-
 	</body>
 </html>
