@@ -1,3 +1,12 @@
 # hello-world
-Rianna Pindoria 
-chemistry student @ UCL
+
+<html>
+	<head>
+		<title>RIANNA PINDORIA</title>
+	</head>
+	<body>
+		<h1>ALL ABOUT ME</h1>
+    
+
+	</body>
+</html>
